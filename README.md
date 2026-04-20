@@ -1,7 +1,7 @@
 <div align="center">
 
 ---
-##***PHISHLINK_DETECTOR***
+## ***PHISHLINK_DETECTOR***
 ---
 
 **AI-Powered Phishing & Domain Spoofing Detection**
