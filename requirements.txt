@@ -1,0 +1,13 @@
+# PHISHLINK_DETECTOR v2.1 — Requirements
+# Install with: pip install -r requirements.txt
+
+flask
+httpx
+google-generativeai
+openai                 # Also used as OpenRouter client (OpenAI-compatible)
+pyfiglet
+colorama
+
+# Web Search Module
+duckduckgo-search      # Free, no API key needed
+python-whois           # WHOIS domain lookups
