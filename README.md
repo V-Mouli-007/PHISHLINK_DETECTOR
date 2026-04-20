@@ -9,7 +9,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
 [![License](https://img.shields.io/badge/License-Apache--2.0-green?style=for-the-badge)](LICENSE)
-[![Made By](https://img.shields.io/badge/Made%20By-Aryan%20Giri-blueviolet?style=for-the-badge)](https://github.com/giriaryan694-a11y)
 
 > ⚡ **Works with zero budget** — OpenRouter provides free LLM access with no credit card needed.<br>
 > 🔄 **Smart fallback chain** — if one free model is rate-limited or dead, automatically tries the next.
