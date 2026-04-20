@@ -1,7 +1,7 @@
 <div align="center">
 
 ---
-***PHISHLINK_DETECTOR***
+##***PHISHLINK_DETECTOR***
 ---
 
 **AI-Powered Phishing & Domain Spoofing Detection**
@@ -75,7 +75,7 @@ Even well-trained users with VPNs and 2FA can fall for **social engineering**. A
 
 ```bash
 # 1. Clone
-git clone 
+git clone https://github.com/V-Mouli-007/PHISHLINK_DETECTOR.git
 cd PHISHLINK_DETECTOR
 
 # 2. Virtual environment (recommended)
