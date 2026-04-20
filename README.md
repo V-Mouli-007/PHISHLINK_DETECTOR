@@ -14,6 +14,9 @@
 > ⚡ **Works with zero budget** — OpenRouter provides free LLM access with no credit card needed.<br>
 > 🔄 **Smart fallback chain** — if one free model is rate-limited or dead, automatically tries the next.
 
+<img width="1898" height="1012" alt="Screenshot 2026-04-20 145808" src="https://github.com/user-attachments/assets/0f11ca20-1851-48ad-80d0-ad3344f46a7e" />
+
+
 </div>
 
 ---
