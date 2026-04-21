@@ -59,20 +59,6 @@ Even well-trained users with VPNs and 2FA can fall for **social engineering**. A
 | 📊 **Risk Score Bar** | Visual 0–100 combo-squatting risk meter in the UI |
 | 🖥️ **Terminal UI** | Dark hacker-aesthetic dashboard, responsive for desktop & mobile |
 
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-| Input & Analysis | Results |
-|:---:|:---:|
-| ![Screenshot 1](screenshots/screenshot1.png) | ![Screenshot 2](screenshots/screenshot2.png) |
-
-</div>
-
----
-
 ## 🚀 Quick Start
 
 ```bash
