@@ -43,7 +43,7 @@ Even well-trained users with VPNs and 2FA can fall for **social engineering**. A
 | **Brand impersonation** | Page claims to be PayPal but domain has no relation |
 | **Newly registered domains** | Domains < 6 months old are flagged high-risk |
 
----
+----
 
 ## ✨ Features
 
